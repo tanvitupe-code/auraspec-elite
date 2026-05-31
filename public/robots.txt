@@ -1,0 +1,7 @@
+# Secure AI Architecture Machine Directives
+User-agent: *
+Disallow: /api/
+Disallow: /admin/
+Allow: /
+
+Sitemap: http://localhost:5173/sitemap.xml
